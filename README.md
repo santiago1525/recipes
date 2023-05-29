@@ -1,7 +1,6 @@
-# recipes
+# Recipes
 
-A new Flutter project.
-
+You can to preview this proyect here: https://drive.google.com/file/d/13JJDa0jo_lpkIlO5O4EWfRueWiYmFojb/view?usp=share_link
 ## Getting Started
 
 This project is a starting point for a Flutter application.
